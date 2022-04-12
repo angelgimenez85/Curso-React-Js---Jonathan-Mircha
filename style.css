@@ -8,3 +8,8 @@ h1,
 p {
   font-family: Lato;
 }
+
+a {
+  color: white;
+  text-decoration: none;
+}
